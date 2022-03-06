@@ -1,0 +1,101 @@
+﻿  BBB
+c1xx : fatal error C1083: Não é possível abrir arquivo fonte: 'src\BBB': No such file or directory
+  Camera.cpp
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(21,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(22,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(26,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(27,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(28,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(29,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(104,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(104,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(104,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(123,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(123,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(123,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(142,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(142,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(142,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(223,77): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(223,53): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(224,62): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Camera.cpp(224,47): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+  Chunk.cpp
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(53,16): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(53,44): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(106,70): warning C4267: 'argumento': conversão de 'size_t' para 'GLuint', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(122,70): warning C4267: 'argumento': conversão de 'size_t' para 'GLuint', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(127,50): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(143,58): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(143,21): warning C4244: 'inicializando': conversão de 'float' para 'const int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(144,58): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\Chunk.cpp(144,21): warning C4244: 'inicializando': conversão de 'float' para 'const int', possível perda de dados
+  main.cpp
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(91,36): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(96,49): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(103,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(107,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(112,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(164,147): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(164,92): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(165,153): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\main.cpp(165,98): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  Texture.cpp
+  Thread_Safe_Queue.cpp
+  VAO.cpp
+C:\Users\uliss\OneDrive\Área de Trabalho\OpenGL\OpenGL\src\VAO.cpp(20,63): warning C4244: 'argumento': conversão de 'GLsizeiptr' para 'GLsizei', possível perda de dados
+  VBO.cpp
+  World.cpp
+  Gerando Código...

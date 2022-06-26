@@ -1,1 +1,13 @@
-x64/
+**/x64
+Minecraft/Debug/
+Minecraft/Release/
+Minecraft/lib/
+Minecraft/Minecraft.vcxproj
+Minecraft/Minecraft.vcxproj.filters
+Minecraft/Minecraft.vcxproj.user
+Minecraft/Include/GLFW/
+Minecraft/Include/KHR/
+Minecraft/Include/glad/
+Minecraft/Include/glm/
+Minecraft/Include/stb/
+Minecraft/Include/FastNoiseLite.h

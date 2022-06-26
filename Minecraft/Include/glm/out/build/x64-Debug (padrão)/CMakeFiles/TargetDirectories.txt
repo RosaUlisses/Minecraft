@@ -1,2 +1,0 @@
-C:/Users/uliss/OneDrive/Área de Trabalho/OpenGL/OpenGL/include/glm/out/build/x64-Debug (padrão)/CMakeFiles/edit_cache.dir
-C:/Users/uliss/OneDrive/Área de Trabalho/OpenGL/OpenGL/include/glm/out/build/x64-Debug (padrão)/CMakeFiles/rebuild_cache.dir

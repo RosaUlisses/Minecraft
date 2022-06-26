@@ -1,0 +1,105 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (OpenGL.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Camera.cpp
+C:\Programação\teste\Minecraft\src\Camera.cpp(21,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(22,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(26,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(27,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(28,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(29,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Programação\teste\Minecraft\src\Camera.cpp(104,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(104,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(104,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(123,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(123,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(123,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(142,110): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(142,81): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(142,52): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(222,77): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(222,53): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(223,62): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Programação\teste\Minecraft\src\Camera.cpp(223,47): warning C4244: 'argumento': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Programação\teste\Minecraft\src\main.cpp(89,36): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(94,49): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(101,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(105,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(110,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(161,147): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(161,92): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(162,153): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(162,98): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  1 of 933 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(input.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(context.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(window.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(init.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_window.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_joystick.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_time.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_thread.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_init.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(win32_monitor.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(monitor.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(vulkan.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(wgl_context.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(egl_context.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(osmesa_context.obj)' ou no 'C:\Programação\teste\x64\Release\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+  Minecraft.vcxproj -> C:\Programação\teste\x64\Release\Minecraft.exe

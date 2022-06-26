@@ -1,0 +1,27 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (OpenGL.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Programação\teste\Minecraft\src\main.cpp(89,36): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(94,49): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(101,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(105,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(110,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Programação\teste\Minecraft\src\main.cpp(161,147): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(161,92): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(162,153): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(162,98): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Programação\teste\Minecraft\src\main.cpp(168,22): error C2065: 'it': identificador não declarado
+C:\Programação\teste\Minecraft\src\main.cpp(169,28): error C2065: 'it': identificador não declarado
+C:\Programação\teste\Minecraft\src\main.cpp(170,40): error C2065: 'it': identificador não declarado
+C:\Programação\teste\Minecraft\src\main.cpp(182,24): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Programação\teste\Minecraft\src\main.cpp(182,5): error C2371: 'terminate_thread': redefinição; tipos básicos diferentes
+C:\Programação\teste\Minecraft\src\main.cpp(25): message : consulte a declaração de 'terminate_thread'
+C:\Programação\teste\Minecraft\src\main.cpp(183,20): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Programação\teste\Minecraft\src\main.cpp(183,20): error C2556: 'int glfwTerminate(void)': função sobrecarregada difere apenas pelo tipo de retorno de 'void glfwTerminate(void)'
+C:\Programação\teste\Minecraft\include\GLFW\glfw3.h(1832): message : consulte a declaração de 'glfwTerminate'
+C:\Programação\teste\Minecraft\src\main.cpp(183,5): error C2371: 'glfwTerminate': redefinição; tipos básicos diferentes
+C:\Programação\teste\Minecraft\include\GLFW\glfw3.h(1832): message : consulte a declaração de 'glfwTerminate'
+C:\Programação\teste\Minecraft\src\main.cpp(185,10): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Programação\teste\Minecraft\src\main.cpp(185,5): error C2365: 'exit': redefinição; definição anterior era 'função'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(56): message : consulte a declaração de 'exit'
+C:\Programação\teste\Minecraft\src\main.cpp(186,1): error C2059: erro de sintaxe: '}'
+C:\Programação\teste\Minecraft\src\main.cpp(186,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
